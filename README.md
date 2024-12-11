@@ -1,6 +1,9 @@
 # Example code for the "Data Assimilation in a Modelica Framework for Optimizing Battery Longevity in Electric Aircraft"
 Code for the 2025 AIAA Scitech paper "Data Assimilation in a Modelica Framework for Optimizing Battery Longevity in Electric Aircraft"
 
+# Link to ElectricalEnergyStorage, a third-party repository used in some versions of the code:
+https://github.com/modelica-3rdparty/ElectricalEnergyStorage
+
 
 ## Licensing and Citation
 
