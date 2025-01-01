@@ -22,7 +22,12 @@ Cite this as:
   url    = {https://github.com/ARTS-Laboratory/paper-data-assimilation-in-a-modelica-framework-for-optimizing-battery-longevity-in-electric},   
 }
 
-
+<p align="center">
+<img src="media/QR.png" alt="drawing" width="200"/>
+</p>
+<p align="center">
+QR code for repo.
+</p>
 
 
 
